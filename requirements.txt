@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+pmdarima
+
+# ./e
