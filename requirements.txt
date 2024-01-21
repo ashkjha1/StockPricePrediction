@@ -7,5 +7,6 @@ scikit-learn
 scipy
 statsmodels
 pmdarima
+pandas-datareader
 
 # ./e
