@@ -4,9 +4,11 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-scipy
+# scipy
 statsmodels
 pmdarima
-pandas-datareader
+#pandas-datareader
+tensorflow
+#pandas-profiling
 
 # ./e
